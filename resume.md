@@ -3,5 +3,5 @@ layout: default
 title: Resume
 ---
 
-# Resume
+<iframe src="Finalized Version of Resume.pdf" width="100%" height="600px"></iframe>
 
