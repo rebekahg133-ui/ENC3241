@@ -5,7 +5,7 @@ title: Proposal
 
 # Proposal
 
-<img width="10,000" height="500" alt="Screenshot 2026-04-17 at 12 47 59 PM" src="https://github.com/user-attachments/assets/f412152e-c282-4368-a54d-476948c21b3d" />
+<img width="15000" height="2000" alt="Screenshot 2026-04-17 at 12 47 59 PM" src="https://github.com/user-attachments/assets/f412152e-c282-4368-a54d-476948c21b3d" />
 
 <img width="435" height="500" alt="Screenshot 2026-04-17 at 12 48 09 PM" src="https://github.com/user-attachments/assets/d29f12d7-00ae-4556-b5cf-17128d14095e" />
 <img width="435" height="500" alt="Screenshot 2026-04-17 at 12 48 28 PM" src="https://github.com/user-attachments/assets/cd821f27-03bf-4f4e-b9e2-c3e2e60a2462" />
