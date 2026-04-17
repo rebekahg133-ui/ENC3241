@@ -53,3 +53,11 @@ After saving changes, wait ~2 minutes, then visit:
 /_config.yml
 /README.md
 ```
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/e2e2e86c-ecc7-4a91-ac16-7ead166d4dc0"
+    width="400"
+    style="border:1px solid #ccc; border-radius:8px;"
+  />
+</p>
